@@ -18,5 +18,5 @@ separate view.
 
  ̶8̶.̶ ̶*̶*̶B̶a̶s̶i̶c̶ ̶U̶I̶ ̶S̶t̶y̶l̶i̶n̶g̶*̶*̶:̶ ̶C̶r̶e̶a̶t̶e̶ ̶a̶ ̶s̶i̶m̶p̶l̶e̶ ̶a̶n̶d̶ ̶u̶s̶e̶r̶-̶f̶r̶i̶e̶n̶d̶l̶y̶ ̶u̶s̶e̶r̶ ̶i̶n̶t̶e̶r̶f̶a̶c̶e̶ ̶t̶o̶ ̶i̶n̶t̶e̶r̶a̶c̶t̶ ̶w̶i̶t̶h̶ ̶t̶h̶e̶ ̶a̶p̶p̶l̶i̶c̶a̶t̶i̶o̶n̶.̶
  
- ̶9̶.̶ ̶*̶*̶R̶e̶g̶r̶e̶s̶s̶i̶o̶n̶ ̶T̶e̶s̶t̶i̶n̶g̶*̶*̶:̶ ̶W̶r̶i̶t̶e̶ ̶a̶u̶t̶o̶m̶a̶t̶e̶d̶ ̶t̶e̶s̶t̶s̶ ̶i̶n̶ ̶J̶U̶n̶i̶t̶ ̶t̶o̶ ̶v̶e̶r̶i̶f̶y̶ ̶f̶u̶n̶c̶t̶i̶o̶n̶a̶l̶i̶t̶y̶.̶
+ 9. **Regression Testing**: Write automated tests in JUnit to verify functionality.
  
