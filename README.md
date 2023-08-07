@@ -20,3 +20,5 @@ separate view.
  
  9. **Regression Testing**: Write automated tests in JUnit to verify functionality.
  
+ 10. **Fix bugs**
+ 
